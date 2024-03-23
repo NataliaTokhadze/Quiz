@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-image: url("https://flomaster.top/o/uploads/posts/2023-11/1700194150_flomaster-top-p-multyashnii-kotik-s-serdechkom-narisovanni-1.jpg");
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.quiz-container {
+  border: 5px solid #d33333;
+  border-radius: 20px;
+  border-style:dotted;
+}
+
+.quiz-header {
+  background-image: url("https://png.pngtree.com/png-clipart/20221030/original/pngtree-sticker-notes-cute-with-grid-theme-autumn-brown-leaves-background-png-image_8744081.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-size:600px;
+  height: 250px;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+ul {
+  margin-top: 100px;
+}
+
+ul li {
+  text-align:center;
+  /* markerebi movashore :P */
+  /* da cotati gavalamaze HTML-is kodi hehe */
+}
+
+ul li label {
+  font-family: sans-serif;
+}
+
+button {
+  background-color: #e981b385;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 100px;
+}
+
+/* tu ityvit, rom ar aris sakmarisi - moviklav tavs */
+/* 4-5 saati davxarje magaze radgan mindoda lamazad gameketebina T.T */
+/* exla zustad dilis cxra saatia da amitomac wavedi me */
+/* dzili shesanishnavia :> */
